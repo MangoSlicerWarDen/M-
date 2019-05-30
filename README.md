@@ -1,2 +1,2 @@
-# M-
+# M++
 The NEW programming language
